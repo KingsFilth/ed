@@ -1,9 +1,3 @@
----
-layout: page
-title: Documentation
-author: Alex Gil
----
-
 ## Contents
 {:.no_toc}
 

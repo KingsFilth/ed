@@ -1,20 +1,20 @@
 # Built with Jekyll 3.6.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+title:               lerne denken, nicht gedachtes.
+tagline:             'mein lern- & lehrprozess in der digitalen welt.'
+description:         'diese seite dient als mein tagebuch, selbstdarstellung und lernplatform.'
 url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+baseurl:             ''
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Laurenz Junker
+  url:
+  email:             ljunker@uni-bielefeld.de
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:
+color-scheme: blue
 
 # Permalinks
 permalink: pretty

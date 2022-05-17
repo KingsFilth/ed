@@ -1,59 +1,47 @@
 ---
 layout: page
-title: About
+title: über mich.
 ---
 
-One of our most pressing and ever-evolving needs as scholars is to pass on our textual artifacts
-from one generation to another. The art of textual editing, among other practices, has helped many
-cultures to remember and interpret for centuries. Alas, that art is practiced and encouraged in its
-highest form by a dwindling number of scholars. In a digital environment the problem is compounded
-by the difficulties of the medium. While vast repositories and "e-publications" appear on the
-online scene yearly, very few manifest a textual scholar's disciplined attention to detail. In
-contrast, most textual scholars who have made the leap to a rigorous digital practice have focused
-on markup, relying on technical teams to deploy and maintain their work. This makes your average
-scholarly digital edition a very costly and therefore limited affair.
-
-As we see it, a minimal edition is one that aims to reduce the size and complexity of the back and
-front end while flattening the learning curves for the user and the producer. Out of the box, the Ed
-theme can help you build a simple reading edition, or a traditional scholarly edition with footnotes
-and a bibliography, without breaking the bank. In our estimate, these are the two most immediately
-useful type of editions for editors and readers. An edition produced with Ed consists of static
-pages whose rate of decay is substantially lower than database-driven systems. As an added bonus,
-these static pages require less bandwidth. Our hope is that our approach can help beginners and
-veterans deploy beautiful editions with less effort, and that it can help us teach a 'full stack'
-[in one academic semester](https://github.com/susannalles/MinimalEditions/blob/master/README.md),
-while allowing us to care for our projects at less cost, and perhaps, just perhaps, to generate
-high-quality editions on github.io in large quantities based on the
-[git-lit](http://jonreeve.com/2015/09/introducing-git-lit/) model by Jonathan Reeve. We're coming
-for you, Kindle!
+*Ich suche etwas, was mich interessiert und mache es so lange, bis ich etwas anderes finde*
+<br>
+Die letzten 28 Jahre haben gezeigt, dass mich immer das Gleiche, zumindest in manchen Teilen in meinem Leben, nicht lange interessiert. Ich stolpere immer wieder in neue Welten und (hyper)fokussiere mich auf neue Gebiete. Dies ist ein Auszug über die Dinge, die ich bis jetzt getrieben habe. 
 
 
-## Sample Ed editions.
+## verwaltungsrelevante einträge (nach datum).
 
-- [Our sample site](http://minicomp.github.io/ed/) is the first edition built with Ed.
-- [Fugitive Verses](http://fugitiverses.viraltexts.org/): Popular Reprinted Poetry from Nineteenth Century Newspapers
-- [mini lazarillo](http://minilazarillo.github.io/): A minimal edition of the *Lazarillo de Tormes*
-- [Making and Knowing](https://cu-mkp.github.io/GR8975-edition/): The BnF Ms Fr 640 in Translation
-- [Daisy Miller: A Comedy in Three Acts](https://britaneeelizabeth.github.io/ed/texts/DaisyMillerPlay/)
-
-
-## Current Features
-
-- Templates for narrative, drama and poetry
-- Responsive design for mobile phones, tablets and PCs.
-- Relatively easy to learn and teach
-- Works well in high- or low- bandwidth scenarios
-- Easier for digital archives and libraries to preserve
-- Open source, open access
-- Unobtrusive footnotes
-- Metadata in Dublin Core and OpenGraph to play nice with Zotero, libraries and social media.
-- Automatic table of content generation
-- Simple search functionality
-- Annotations via [hypothes.is](https://hypothes.is/)
-- Optional: Ability to generate well-formatted bibliographies and linked citations
+- *2010 bis 2013:* Abitur am Oberstufen-Kolleg Bielefeld
+- *2011 bis 2015:* Mitglied des Jugendensembles vom Alarm!Theater Bielefeld
+- *2013 bis 2014:* Bundesfreiwilligendienst in der Deutschen Schule Helsinki als Sprachkontakt für Finnischsprachige Kinder im Grundschulalter sowie Nachmittagsbetreuung
+- *seit 2014:* Studium an der Universität Bielefeld in den Fächern Anglistik, Philosophie des Geistes und Literaturwissenschaft
+- *2014 bis 2021:* Mitglied der Redaktion von *Hertz 87.9 - Campusradio für Bielefeld*
+- *2017 bis 2021:* Studentische Hilfskraft im EDV-Support
+- *Seit 2021:* EDV-Betreuer der Fakultät für Erziehungswissenschaft
 
 
-## Installing and using Ed
+## studienfokus.
 
-To learn how to install and begin using Ed, please visit our
-[documentation page](http://minicomp.github.io/ed/documentation).
+- Narratologie und Ludonarratologie in Videospielen
+- Auswahl von Modularbeiten, Konferenzbeiträgen und Gastvorträgen:
+    - *"In my restless dreams I see this town." Silent Hill 2 and its psychoanalytic approach to monster-design*
+    -  *Pushing the Boundaries of Space, Power and Biopolitics: Sovereignty in the Mass Effect Series*
+    - *How player-agency in Overwatch facilitates the creation of its pornographic imagery* in <a href="https://ekvv.uni-bielefeld.de/kvv_publ/publ/vd?id=101468412">Deconstructing Love: The Politics and Poetics of a Feeling<a/> 
+    - *Gameplay systems and their approach to failure and fairness* in <a href="https://ekvv.uni-bielefeld.de/kvv_publ/publ/vd?id=132023651"> Narratives of Failure <a/> 
+
+## radiofokus.
+
+- Zertifizierter Produzent von Bürgerfunk bei der Landesanstalt für Medien NRW 
+- *2014 bis 2017:* Leitung des Gamesressorts bei *Hertz 87.9*
+    - Organisation, Moderation und Aufbereitung der Sendung *HertzLevel* im zwei-wochen-rhythmus im Sendealltag
+    - Komplette Berichterstattung des Senders zur gamescom 2015 bis 2017 mit Live-schalten, Interviews und Reportagen 
+- *2015 bis 2021:* Ausbildung neuer Radioredakteure im *Hertz 87.9 Radiocrashkurs*
+- Teilnahme an internen und externen Seminaren bei *Hertz 87.9*: Sprechtraining, Nachrichtenproduktion, Moderationsfahrtraining, Presserecht
+
+## schauspielfokus.
+- Schauspieler im Jugendensemble vom Alarm!Theater Bielefeld in folgenden selbst produzierten Stücken:
+    - <a href="https://www.alarmtheater.de/de/buehne/produktionen/schwarzweiss-eigentlich-sind-wir-nicht-so/28/"> Schwarz/Weiss <a/> , <a href="https://www.alarmtheater.de/de/buehne/produktionen/wert-made-in-bielefeld/27/"> WERT - Made in Bielefeld <a/>, <a href="https://www.alarmtheater.de/de/buehne/produktionen/bitte-wenden/22/"> Bitte Wenden! <a/>, <a href="https://www.alarmtheater.de/de/buehne/produktionen/da-kann-ja-jeder-kommen/16/"> Da kann JA jeder KOMMen <a/>, <a href="https://www.alarmtheater.de/de/buehne/produktionen/wir-made-in-bielefeld/13/"> WIR - Made in Bielefeld <a/>, <a href="https://www.alarmtheater.de/de/buehne/produktionen/herzrasen-zeit-der-wunde-r/11/"> Hertzrasen - Zeit der Wunde(r) <a/>
+
+## edv-fokus.
+- *2017 bis 2020:* Hilfskraft in der Fakultät für Lingustik und Literaturwissenschaft
+    - Aufgaben waren die Einrichtung, Wartung, Weiterentwicklung und Dokumentation der EDV-Dienste der Fakultät.
+    
