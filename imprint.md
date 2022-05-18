@@ -17,4 +17,4 @@ Trotzdem bin ich mir meiner Pflicht bewusst, der Sperrung und Entfernung von Inf
 
 <b>Datenschutz:<b/>
   
-Auf dieser Seite werden keine Daten erhoben.
+  Diese Website speichert <b>keine</b> Cookies, erhebt <b>keine</b> Daten und ist Ressourcenschonend entwickelt und modifiziert worden.
