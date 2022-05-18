@@ -5,7 +5,7 @@ title:               lerne denken, nicht gedachtes.
 tagline:             'mein lern- & lehrprozess in der digitalen welt.'
 description:         'diese seite dient als mein tagebuch, selbstdarstellung und lernplatform.'
 url:                 'http://minicomp.github.io'
-baseurl:             ''
+baseurl:             '/ed'
 
 # About/contact
 author:
