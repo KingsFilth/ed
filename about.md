@@ -27,6 +27,7 @@ Die letzten 28 Jahre haben gezeigt, dass mich immer das Gleiche, zumindest in ma
     -  *Pushing the Boundaries of Space, Power and Biopolitics: Sovereignty in the Mass Effect Series*
     - *How player-agency in Overwatch facilitates the creation of its pornographic imagery* in <a href="https://ekvv.uni-bielefeld.de/kvv_publ/publ/vd?id=101468412">Deconstructing Love: The Politics and Poetics of a Feeling<a/> 
     - *Gameplay systems and their approach to failure and fairness* in <a href="https://ekvv.uni-bielefeld.de/kvv_publ/publ/vd?id=132023651"> Narratives of Failure <a/> 
+- Planung und Durchführung eines eigenen Seminares: <a href="https://ekvv.uni-bielefeld.de/kvv_publ/publ/vd?id=123624740"> Playing with Fear: Analyzing Horror in Video Games <a/> im Bachelorprogramm der Anglistik.
 
 ## radiofokus.
 
