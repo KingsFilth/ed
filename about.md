@@ -44,5 +44,14 @@ Die letzten 28 Jahre haben gezeigt, dass mich immer das Gleiche, zumindest in ma
 
 ## edv-fokus.
 - *2017 bis 2020:* Hilfskraft in der Fakultät für Lingustik und Literaturwissenschaft
-    - Aufgaben waren die Einrichtung, Wartung, Weiterentwicklung und Dokumentation der EDV-Dienste der Fakultät.
-    
+    - Aufgaben waren die Einrichtung, Betreuung, Weiterentwicklung und Dokumentation der EDV-Dienste der Fakultät:
+        - Unified Endpoint Management, Asset Management und Service Management mit IVANTI
+        - Rechteverwaltung und Administration über das Active Directory
+        - Webseitenmigration und Neuaufbau auf Fakultätsebene auf den Uni-bielefeld.de-Seiten über das CMS Roxen17
+- *2019 bis 2021:* Hilfskraft in der Fakultät für Erziehungswissenschaft
+- Aufgaben waren die Einrichtung, Betreuung, Weiterentwicklung und Dokumentation der EDV-Dienste der Fakultät:
+        - Unified Endpoint Management, Asset Management und Service Management mit IVANTI
+        - Rechteverwaltung und Administration über das Active Directory
+        - Administration des Uni-internen Personenverzeichnis PRISMA audf Fakultätsebene
+        - Planung und Beschaffung neuer Soft- und Hardwarekonfigurationen
+- *Seit 2021:* EDV-Betreuer der Fakultät für Erziehungswissenschaft
