@@ -4,4 +4,3 @@ gemspec
 gem "html-proofer"
 gem "kramdown-parser-gfm"
 gem "webrick"
-gem "jekyll-feed"
