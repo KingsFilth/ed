@@ -7,7 +7,10 @@ title: impressum.
 
 Kontakt:
 <br>
-Laurenz Junker, Bielefeld <br>
+Laurenz Junker <br>
+Wittekindstraße 45 <br>
+Hinterhaus <br>
+33615 Bielefeld <br>
 ljunker@uni-bielefeld.de
   
 <b>Haftung für und Überprüfung von Inhalten:<b/>
