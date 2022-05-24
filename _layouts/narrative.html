@@ -4,7 +4,7 @@ layout: default
 
 <div class="narrative">
   <h1 class="text-title">{{ page.title }}</h1>
-  <small>by {{ page.author }} on <time datetime="{{page.date}}">{{ page.publication-date | date: "%A, %B %e, %Y" }}</time>
+  <small>von {{ page.author }} am <time datetime="{{page.date}}">{{ page.publication-date | date: "%A, %B %e, %Y" }}</time>
   {{ content }}
   {% if page.post_collection %}
     {% if page.post_collection == "blockchain" %}
