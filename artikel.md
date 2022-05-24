@@ -1,0 +1,19 @@
+---
+layout: page
+title: artikel.
+---
+<div class="toc">
+  <div class="post-list"> 
+  {% for item in site.posts %}
+    {% unless item.categories contains 'archive' %}
+      <article class="post-item">
+        <div class="post-info">
+          <h3 class="title-text"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></h3>
+          <time class="post-date" datetime="{{item.date}}">{{ item.date | date: "%B %e, %Y" }}</time>
+        </div>
+        <p class="post-excerpt">{{ item.custom_excerpt }}</p>
+      </article>
+    {% endunless %}
+  {% endfor %}
+  </div>
+</div>
