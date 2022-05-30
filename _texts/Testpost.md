@@ -15,5 +15,8 @@ _Oder man macht einfach einen eigenen Blog auf._
 <br>
 Klar, ein Blog wie dieser hat keine Plattform, auf der der content angezeigt werden könnte. Andererseits gibt es hier keinen Erfolgsdruck, niemand kann diesen Eintrag liken oder ihn
 kommentieren. Ideale Bedingungen um einfach zu schreiben, zu Worte zu bringen, was einen beschäftigt. Ohne ein sofortiges negaitves Feedback oder - in traditionellen sozial Medien noch schlimmer - ohne überhaupt feedback. Ich weiß nicht, wieviele Personen auf diesen Blog klicken: diese Statistiken werden hier nicht erhoben. Ich weiß nicht, wie Personen auf diesen Blog stoßen: diese Informationen werden hier nicht erhoben. Mir kann nicht mal jemand sagen, wie gut der Inhalt hier gefällt: es gibt keine Möglichkeit, Feedback zu hinterlassen. Nichts davon ist mir wichtig, mir geht es einzig und allein um zwei Dinge:
-    - Ich möchte wissen, wie man ein eigenes Projekt in Form einer Internetseite hochzieht
-    - Ich möchte ohne Druck mein geschriebenes Wort anbieten
+
+- Ich möchte wissen, wie man ein eigenes Projekt in Form einer Internetseite hochzieht
+- Ich möchte ohne Druck mein geschriebenes Wort anbieten
+
+Zu beiden Zielen werde ich weitere Posts verfassen, dies gilt mehr oder weniger als mein Manifest, wenn man es so nennen kann.
