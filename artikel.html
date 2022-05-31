@@ -9,7 +9,7 @@ title: artikel.
       <article class="post-item">
         <div class="post-info">
           <h3 class="title-text"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></h3>
-          <time datetime="{{page.date}}">{{ page.publication-date | date: "%d.%m.%Y" }}</time>
+          <small><time datetime="{{page.date}}">{{ page.publication-date | date: "%d.%m.%Y" }}</time></small>
         </div>
         <p class="post-excerpt">{{ item.custom_excerpt }}</p>
       </article>
