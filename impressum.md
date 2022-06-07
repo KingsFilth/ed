@@ -21,4 +21,4 @@ Trotzdem bin ich mir meiner Pflicht bewusst, der Sperrung und Entfernung von Inf
 
 <b>Datenschutz:<b/>
   
-  Diese Website speichert <b>keine</b> Cookies, erhebt <b>keine</b> Daten und ist Ressourcenschonend entwickelt und modifiziert worden.
+  Diese Website speichert <b>keine</b> Cookies, erhebt <b>keine</b> Daten und kommt mit so wenig Ressourcen aus wie möglich. Javascript ist für die Ansicht nicht nötig, machts aber ein bisschen schicker.
