@@ -11,8 +11,8 @@ Die Wahrheit ist, dass ich gut mit Computern umgehen kann, weil ich es schon sei
 
 <div class="toc">
   <h2>inhalte.</h2>
-  <ul class="texts">
-  {% for item in site.texts %}
+  <ul class="post">
+  {% for item in site.posts %}
 
     <li class="text-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
