@@ -13,7 +13,7 @@ Die Wahrheit ist, dass ich gut mit Computern umgehen kann, weil ich es schon sei
   <h2>inhalte.</h2>
   <ul class="texts">
   {% for item in site.texts %}
-
+    {% and item.categories contains 'projekt' %}
     <li class="text-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}

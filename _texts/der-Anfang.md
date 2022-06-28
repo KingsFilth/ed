@@ -3,6 +3,7 @@ layout: narrative
 title: Wie man überhaupt anfängt, Dinge im Internet zu schreiben
 author: Laurenz Junker
 publication-date: 2022-05-24
+category: artikel
 custom_excerpt: "Vielleicht 280 Zeichen auf Twitter? Oder nur für Freunde auf Facebook? Oder doch lieber einfach die Backen halten."
 ---
 In der gesamten Menschheitsgeschichte war es nie einfacher, seine Gedanken mit anderen zu teilen. Das Internet bot im Frühstadium allen die Möglichkeit, zumindest an der Diskussion teilhaben zu können. Mit Web 2.0 und dem Aufkommen von Diensten und Plattformen wurde der Zugang zum Sprachrohr noch einfacher - einfach einen Account erstellen und losschreiben. Mit nur wenigen Klicks kann die eigene Gedankenwelt abgebildet werden. Doch je einfacher das reine Publizieren der Gedanken wird,

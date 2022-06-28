@@ -3,6 +3,7 @@ layout: narrative
 title: WordPress, Squarespace oder doch alles selber machen
 author: Laurenz Junker
 publication-date: 2022-06-23
+catergory: artikel
 custom_excerpt: "Wer sich nicht an eine Plattform binden möchte, dem bleibt nur eins: selbst Hand anlegen."
 ---
 
