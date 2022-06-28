@@ -3,7 +3,7 @@ layout: narrative
 title: Spiel, Spaß und D&D
 author: Laurenz Junker
 publication-date: 2022-06-28
-category: projekt
+item.category: projekt
 custom_excerpt: "Vielleicht 280 Zeichen auf Twitter? Oder nur für Freunde auf Facebook? Oder doch lieber einfach die Backen halten."
 ---
 
