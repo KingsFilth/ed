@@ -14,4 +14,6 @@ Eines meiner größten Hobbies ist *spielen*. Dieser Begriff enthält natürlich
 <br>
 
 Da steckt jetzt tatsächlich eine Menge an Inhalt drin, über viele Begriffe könnte man stundenlang debattieren, gibt es zum Beispiel Spiele ohne Regeln? Oder was ist mit Glücksspielen, in denen das Ziel nicht in sich selber, sondern in der Belohnung steht? 
-Lange Rede, kurzer Sinn: ich spiele gerne und ich denke fast genau so gerne über spielen nach. Das bewusste Spielen oder sich bewusst sein, wie spielen funktioniert, ist für mich nicht nur Voraussetzung, dass ich am Spiel Spaß habe, es hilft auch dabei zu wissen, *wieso* ich dabei Spaß habe oder nicht. 
+Lange Rede, kurzer Sinn: ich spiele gerne und ich denke fast genau so gerne über spielen nach. Das bewusste Spielen oder sich bewusst sein, wie spielen funktioniert, ist für mich nicht nur Voraussetzung, dass ich am Spiel Spaß habe, es hilft auch dabei zu wissen, *wieso* ich dabei Spaß habe oder nicht. Was viele *Geschmack* nennen ist nichts Anderes als eine Vorliebe bzw. eine Abneigung gegenüber Regelwerken. Zu wissen, welche Regeln oder Regelkategorien einem persönlich Spaß machen, ist die Voraussetzung für diesen Spaß. 
+
+Ich habe in meinem Leben eine Menge Pen&Paper Rollenspiele gespielt, angefangen mit Dungeons & Dragon 3.5 während meiner Grundschulzeit. 
