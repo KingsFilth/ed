@@ -25,4 +25,12 @@ Ich leihe mir aus dem Diskurs um *Magic: The Gathering* zwei Begriffe, die ich f
 - Wieviele Lebenspunkte hat eine Kreatur? 
 - Was brauche ich für Materialen um einen Zauberspruch zu wirken und wie viel Schaden kann ich damit zufügen?
 - Wie schnell kann ich im Kampf von a nach b kommen und habe ich überhaupt genug Bewegungspunkte? 
-Die Antworten auf diese Fragen lassen sich quantifizieren, die Kreatur hat 50 Lebenspunkte, für deinen Zauberspruch brauchst du Edelsteine im Wert von 1000 Gold und 
+
+Die Antworten auf diese Fragen lassen sich alle (zumindest teilweise) quantifizieren, die Kreatur hat 50 Lebenspunkte, für deinen Zauberspruch brauchst du einen kleinen Edelstein und er macht 3d8 (3 mal einen achtseitigen Würfel) Punkte Schaden und deine Geschwindigkeit hängt von der Rasse und den individuellen Fähigkeiten deines Characters ab (normalerweise 30 Fuß und eine Zeiteinheit von 6 Sekunden im Kampf). 
+Kämpfe in P&P können (ordentlich) nur mit diesen festgelegten und quantifizierten Regeln funktionieren. Sie bieten das Fundament, auf dem das Spiel aufgebaut ist, *function* ist sozusagen die Bühne, auf der die Spielcharactere stehen. 
+Auf dieser Bühne passiert *flavour*. Darunter fällt alles, was das Aussehen der Regelauslegung betrifft:
+- Wie sieht die Kreatur aus?
+- Wie sieht es aus, wenn ich einen Zauberspruch wirke? Wie kreiert mein Character Magie aus einem Edelstein?
+- Wie bewegt sich mein Character, schlendert oder rennt er?
+
+Diese Fragen lassen sich kaum quantifizieren, sie sind keine Regelfragen, da das reine Regelwerk durch die Antworten nicht beeinflusst wird. Die Kreatur mag ein monströses und ekelhaftes Baumwesen mit moosüberwachsenden Ästen als Arme und Beine sein, welches sich in bewälderten Gebieten verstecken kann. Der Character kann den Edelstein wie eine Granate werfen, welcher beim Einschlagen explodiert, oder er kann den Edelstein in der Hand zu Puder zerdrücken um damit seine Zauberformel mit Magie zu versehen. Wie sich der Character bewegt hängt von seiner Persönlichkeit ab, ein alter und gebrechlicher Magier könnte eher auf einen Gehstock gesetützt durch das Schlachtfeld schlurfen, oder er versteckt unter seiner Robe einen gestähöten Körper, der auf Kommando einen Marathon rennt. 
