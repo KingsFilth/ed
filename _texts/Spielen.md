@@ -4,7 +4,7 @@ title: Spiel, Spaß und D&D
 author: Laurenz Junker
 publication-date: 2022-06-28
 item.category: projekt
-custom_excerpt: "Vielleicht 280 Zeichen auf Twitter? Oder nur für Freunde auf Facebook? Oder doch lieber einfach die Backen halten."
+custom_excerpt: "Der Versuch einer Beschreibung davon, wie ich P&P spiele."
 ---
 
 Eines meiner größten Hobbies ist *spielen*. Dieser Begriff enthält natürlich etwas weit gefasst, ist aber in der Anwendung wohl akkurat. Die Wissenschaft, die sich mit dem Akt des Spielens befasst, ist die Ludologie, vom Lateinischen *ludus* "Spiel" und dem Griechischen *lógos* "Lehre". Also die Lehre vom Spiel. Ich folge immer gerne der Definition des Kulturhistorikers Johan Huizinga, der 1938 in *"Homo Ludens: Vom Ursprung der Kultur im Spiel."* eine, finde ich, sehr griffige Definiton präsentiert.
