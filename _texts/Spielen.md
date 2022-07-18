@@ -8,10 +8,9 @@ custom_excerpt: "Vielleicht 280 Zeichen auf Twitter? Oder nur für Freunde auf F
 ---
 
 Eines meiner größten Hobbies ist *spielen*. Dieser Begriff enthält natürlich etwas weit gefasst, ist aber in der Anwendung wohl akkurat. Die Wissenschaft, die sich mit dem Akt des Spielens befasst, ist die Ludologie, vom Lateinischen *ludus* "Spiel" und dem Griechischen *lógos* "Lehre". Also die Lehre vom Spiel. Ich folge immer gerne der Definition des Kulturhistorikers Johan Huizinga, der 1938 in *"Homo Ludens: Vom Ursprung der Kultur im Spiel."* eine, finde ich, sehr griffige Definiton präsentiert.
-
 <br>
->*"Spiel ist eine freiwillige Handlung oder Beschäftigung, die innerhalb gewisser festgesetzer Grenzen von Zeit und Raum nach freiwillig angenommenen, aber unbedingt >bindenden Regeln verrichtet wird, ihr Ziel in sich selber hat und begleitet wird von einem Gefühl der Spannung und Freude und dem Bewußtsein des „Andersseins“ als das >„gewöhnliche Leben“.
->So definiert, scheint der Begriff geeignet zu sein, alles zu umfassen, was wir bei Tieren, Kindern und erwachsenen Menschen Spiel nennen: Geschicklichkeits- und >Kraftspiele, Verstandes- und Glücksspiele, Darstellungen und Aufführungen. Diese Kategorie Spiel schien als eins der allerfundamentalsten geistigen Elemente des Lebens >angesehen werden zu können"*
+>*"Spiel ist eine freiwillige Handlung oder Beschäftigung, die innerhalb gewisser festgesetzer Grenzen von Zeit und Raum nach freiwillig angenommenen, aber unbedingt >bindenden Regeln verrichtet wird, ihr Ziel in sich selber hat und begleitet wird von einem Gefühl der Spannung und Freude und dem Bewußtsein des „Andersseins“ als das „gewöhnliche Leben“.
+So definiert, scheint der Begriff geeignet zu sein, alles zu umfassen, was wir bei Tieren, Kindern und erwachsenen Menschen Spiel nennen: Geschicklichkeits- und Kraftspiele, Verstandes- und Glücksspiele, Darstellungen und Aufführungen. Diese Kategorie Spiel schien als eins der allerfundamentalsten geistigen Elemente des Lebens angesehen werden zu können"*
 
 (s. Huizinga, Johan: "Homo ludens" (1938), S. 37)
 <br>
