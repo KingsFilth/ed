@@ -39,7 +39,7 @@ Die letzten 28 Jahre haben gezeigt, dass mich immer das Gleiche, zumindest in ma
 - Teilnahme an internen und externen Seminaren bei *Hertz 87.9*: Sprechtraining, Nachrichtenproduktion, Moderationsfahrtraining, Presserecht
 
 ## schauspielfokus.
-- Schauspieler im Jugendensemble vom Alarm!Theater Bielefeld in folgenden selbst produzierten Stücken:
+- *2012 bis 2017* Schauspieler im Jugendensemble vom Alarm!Theater Bielefeld in folgenden selbst produzierten Stücken:
     - <a href="https://www.alarmtheater.de/de/buehne/produktionen/schwarzweiss-eigentlich-sind-wir-nicht-so/28/"> Schwarz/Weiss <a/> , <a href="https://www.alarmtheater.de/de/buehne/produktionen/wert-made-in-bielefeld/27/"> WERT - Made in Bielefeld <a/>, <a href="https://www.alarmtheater.de/de/buehne/produktionen/bitte-wenden/22/"> Bitte Wenden! <a/>, <a href="https://www.alarmtheater.de/de/buehne/produktionen/da-kann-ja-jeder-kommen/16/"> Da kann JA jeder KOMMen <a/>, <a href="https://www.alarmtheater.de/de/buehne/produktionen/wir-made-in-bielefeld/13/"> WIR - Made in Bielefeld <a/>, <a href="https://www.alarmtheater.de/de/buehne/produktionen/herzrasen-zeit-der-wunde-r/11/"> Hertzrasen - Zeit der Wunde(r) <a/>
 
 ## edv-fokus.
